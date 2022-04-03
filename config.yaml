@@ -1,28 +1,27 @@
 baseURL = "https://wonderer11.github.io/Hugo-Blog/"
 
-copyright = 'Everything is mine'
-defaultContentLanguage = 'en'
-[languages]
-  [languages.ar]
-    languagedirection = 'rtl'
-    title = 'مدونتي'
-    weight = 2
-  [languages.en]
-    title = 'My blog'
-    weight = 1
-    [languages.en.params]
-      linkedin = 'https://linkedin.com/whoever'
-  [languages.fr]
-    title = 'Mon blogue'
-    weight = 2
-    [languages.fr.params]
-      linkedin = 'https://linkedin.com/fr/whoever'
-      [languages.fr.params.navigation]
-        help = 'Aide'
-  [languages.pt-pt]
-    title = 'O meu blog'
-    weight = 3
-[params]
-  [params.navigation]
-    help = 'Help'
-
+copyright: Everything is mine
+defaultContentLanguage: en
+languages:
+  ar:
+    languagedirection: rtl
+    title: مدونتي
+    weight: 2
+  en:
+    params:
+      linkedin: https://linkedin.com/whoever
+    title: My blog
+    weight: 1
+  fr:
+    params:
+      linkedin: https://linkedin.com/fr/whoever
+      navigation:
+        help: Aide
+    title: Mon blogue
+    weight: 2
+  pt-pt:
+    title: O meu blog
+    weight: 3
+params:
+  navigation:
+    help: Help
