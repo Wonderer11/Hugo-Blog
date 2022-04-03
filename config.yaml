@@ -1,4 +1,4 @@
-baseURL = "https://wonderer11.github.io/Hugo-Blog/"
+baseURL: "https://wonderer11.github.io/Hugo-Blog/"
 
 copyright: Everything is mine
 defaultContentLanguage: en
