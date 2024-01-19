@@ -2,7 +2,7 @@ defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 languages:
   en:
-    contentDir: content/en
+    contentDir: content/english
     disabled: false
     languageCode: en-gb
     languageDirection: ltr
@@ -11,10 +11,10 @@ languages:
       subtitle: Reference, Tutorials, and Explanations
     title: Project Documentation
     weight: 1
-  zh:
-    contentDir: content/yue
+  zh-yue:
+    contentDir: content/cantonese
     disabled: false
-    languageCode: zh-hk
+    languageCode: zh-yue-hk
     languageDirection: ltr
     languageName: 粵語
     params:
