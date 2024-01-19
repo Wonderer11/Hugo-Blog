@@ -1,27 +1,23 @@
-baseURL: https://wonderer11.github.io/Hugo-Blog/
-
-copyright: Everything is mine
 defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
 languages:
-  ar:
-    languagedirection: rtl
-    title: مدونتي
-    weight: 2
   en:
+    contentDir: content/English
+    disabled: false
+    languageCode: en-gb
+    languageDirection: ltr
+    languageName: English
     params:
-      linkedin: https://linkedin.com/whoever
-    title: My blog
+      subtitle: Reference, Tutorials, and Explanations
+    title: Project Documentation
     weight: 1
-  fr:
+  yue:
+    contentDir: content/Cantonese
+    disabled: false
+    languageCode: zh-hk
+    languageDirection: ltr
+    languageName: 粵語
     params:
-      linkedin: https://linkedin.com/fr/whoever
-      navigation:
-        help: Aide
-    title: Mon blogue
+      subtitle: 參考、教學和說明
+    title: 項目文檔
     weight: 2
-  pt-pt:
-    title: O meu blog
-    weight: 3
-params:
-  navigation:
-    help: Help
