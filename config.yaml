@@ -7,9 +7,9 @@ languages:
     languageCode: en-gb
     languageDirection: ltr
     languageName: English
-    params:
-      subtitle: Reference, Tutorials, and Explanations
-    title: Project Documentation
+#    params:
+#      subtitle: Reference, Tutorials, and Explanations
+#    title: Project Documentation
     weight: 1
   zh-yue:
     contentDir: content/cantonese
@@ -17,7 +17,7 @@ languages:
     languageCode: zh-yue-hk
     languageDirection: ltr
     languageName: 粵語
-    params:
-      subtitle: 參考、教學和說明
-    title: 項目文檔
+#    params:
+#      subtitle: 參考、教學和說明
+#    title: 項目文檔
     weight: 2
