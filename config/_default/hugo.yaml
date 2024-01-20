@@ -1,16 +1,1 @@
-defaultContentLanguage: en
-languages:
-  en:
-    disabled: false
-    languageCode: en-gb
-    languageDirection: ltr
-    languageName: English
-    title: ""
-    weight: 1
-  zh-yue:
-    disabled: false
-    languageCode: zh-yue-hk
-    languageDirection: ltr
-    languageName: 粵語
-    title: ""
-    weight: 2
+
