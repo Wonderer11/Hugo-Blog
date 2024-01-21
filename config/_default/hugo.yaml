@@ -1,8 +1,8 @@
-baseURL: https://example.org/
+baseURL: https://wonderer11.github.io/Hugo-Blog/
 languageCode: en-us
 params:
   contact:
-    email: info@example.org
-    phone: +1 202-555-1212
-  subtitle: The Best Widgets on Earth
-title: ABC Widgets, Inc.
+    email: 
+    phone: 
+    subtitle: 
+title: Wonderer Hugo Blog
