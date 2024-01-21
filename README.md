@@ -1,2 +1,2 @@
-# Hugo[^a]-Blog
+# Hugo[^Hugo]-Blog
 [^Hugo]:https://gohugo.io/documentation/
