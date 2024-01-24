@@ -1,8 +1,2 @@
 baseURL: https://wonderer11.github.io/Hugo-Blog/
-languageCode: en-us
-params:
-  contact:
-    email: 
-    phone: 
-    subtitle: 
 title: Wonderer Hugo Blog
